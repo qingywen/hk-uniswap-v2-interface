@@ -1,4 +1,4 @@
-import { Currency } from 'hwj-bsctest-swap-sdk'
+import { Currency } from 'skylar-goerli-swap-sdk'
 import React from 'react'
 import styled from 'styled-components'
 import CurrencyLogo from '../CurrencyLogo'

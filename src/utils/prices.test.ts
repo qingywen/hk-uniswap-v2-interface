@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from 'hwj-bsctest-swap-sdk'
+import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from 'skylar-goerli-swap-sdk'
 import { computeTradePriceBreakdown } from './prices'
 
 describe('prices', () => {

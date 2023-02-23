@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from 'hwj-bsctest-swap-sdk'
+import { Currency, ETHER, Token } from 'skylar-goerli-swap-sdk'
 import React, { useMemo } from 'react'
 import styled from 'styled-components'
 

@@ -1,4 +1,4 @@
-import { ChainId } from 'hwj-bsctest-swap-sdk'
+import { ChainId } from 'skylar-goerli-swap-sdk'
 import React from 'react'
 import { isMobile } from 'react-device-detect'
 import { Text } from 'rebass'
