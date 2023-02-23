@@ -8250,19 +8250,6 @@ human-signals@^2.1.0:
   resolved "https://registry.npmjs.org/human-signals/-/human-signals-2.1.0.tgz"
   integrity sha512-B4FFZ6q/T2jhhksgkbEW3HBvWIfDW85snkQgawt07S7J5QXTk6BkNV+0yAeZrM5QpMAdYlocGoljn0sJ/WQkFw==
 
-skylar-goerli-swap-sdk@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/skylar-goerli-swap-sdk/-/skylar-goerli-swap-sdk-1.0.0.tgz"
-  integrity sha512-vHOZIFhZYSdjm0kqDlbYkxJa7M7V9VSZb6aQJa4WNaS9FFGO/FW/hJ29Wtf4ERXvBTuXCA/TMKZxdI45pnLfVQ==
-  dependencies:
-    "@uniswap/v2-core" "^1.0.0"
-    big.js "^5.2.2"
-    decimal.js-light "^2.5.0"
-    jsbi "^3.1.1"
-    tiny-invariant "^1.1.0"
-    tiny-warning "^1.0.3"
-    toformat "^2.0.0"
-
 i18next-browser-languagedetector@^3.0.1:
   version "3.1.1"
   resolved "https://registry.npmjs.org/i18next-browser-languagedetector/-/i18next-browser-languagedetector-3.1.1.tgz"
@@ -13684,10 +13671,10 @@ sisteransi@^1.0.5:
   resolved "https://registry.npmjs.org/sisteransi/-/sisteransi-1.0.5.tgz"
   integrity sha512-bLGGlR1QxBcynn2d5YmDX4MGjlZvy2MRBDRNHLJ8VI6l6+9FUiyTFNJ0IveOSP0bcXgVDPRcfGqA0pjaqUpfVg==
 
-skylar-goerli-swap-sdk@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/skylar-goerli-swap-sdk/-/skylar-goerli-swap-sdk-1.0.0.tgz#5cee3a1040825f70ffa11f824d7328916a8b6dfd"
-  integrity sha512-X1NjKNfjHwd0OjbttiqqHmQEq45+6Zld8sjCPWGcNUab4KQAekfu0FEU1AgaAQJQtBOXgiEBGbQES3A74D6IGA==
+skylar-goerli-swap-sdk@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/skylar-goerli-swap-sdk/-/skylar-goerli-swap-sdk-1.0.1.tgz#bfde054462f5b10217b7599bee55c0f6374f0258"
+  integrity sha512-AXk4PKO3OGfd3MraBNk0aU9PQqAsJlJEXpAWgwT4q4WzojGQ9qNmkOu8SK2vXdqiMpyKuhZWHqCZQUwkhxt5uQ==
   dependencies:
     "@uniswap/v2-core" "^1.0.0"
     big.js "^5.2.2"
